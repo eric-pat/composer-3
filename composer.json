@@ -1,0 +1,17 @@
+{
+    "name": "eric-pat/composer-3",
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "EricPat\\Composer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eric-pat",
+            "email": "97623282+eric-pat@users.noreply.github.com"
+        }
+    ]
+}
